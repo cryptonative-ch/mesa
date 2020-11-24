@@ -24,11 +24,24 @@ The project needs a place for the IDO.
 - Post sale analytics
 - Whitelabel version of mesa
 
+## Deal
+
+- % of the token on the sale?
+- fix payment?
+- Token with vesting?
+
 # package "liquidity"
 
 ## needs of the project
 
 The project needs a place for IDO and a way to have liquidty after the sale.
+
+
+## Deal
+
+- % of the token on the sale?
+- % of pool token on swapr pair?
+- Pool token with vesting?
 
 
 # package "strategy"

@@ -17,18 +17,18 @@ we don't do shitcoins
 
 The project needs a place for the IDO.
 
-##  What DXdao can provide
+##  What DXdao can provide/help
 
 - Scripts for setting the order on a bonding-curve
-- Post sale analytics
 - Real time analytics
-- Whitelabel
+- Post sale analytics
+- Whitelabel version of mesa
 
 # package "liquidity"
 
 ## needs of the project
 
-The project needs a place for the IDO and a way to have liquidty after the sale.
+The project needs a place for IDO and a way to have liquidty after the sale.
 
 
 # package "strategy"

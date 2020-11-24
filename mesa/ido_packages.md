@@ -35,4 +35,4 @@ The project needs a place for the IDO and a way to have liquidty after the sale.
 
 The project has strategic alligment with DXdao
 
-Token swap possible
+Token swap possible?

@@ -23,4 +23,4 @@ Make other protocols for IDOs:
 
 - Revoke DutchX!
 - Explorer what's participant understand in fair?
-- Change Gnosis protocol, batch only once!
+- Change Gnosis protocol, batch only once and more

@@ -1,4 +1,4 @@
-# Strategy
+# Strategy for mesaIDO
 
 Overall strategy is to change masa to a tool for doing IDOs
 

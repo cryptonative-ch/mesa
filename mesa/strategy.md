@@ -33,7 +33,7 @@ Overall strategy is to change masa to a tool for doing IDOs
 * Over Service? 0SS https://github.com/martinkrung/dxdao/blob/main/mesa/ido_packages.md
 * Fee based? (Blockchain way)
 
-## Strategy IDO Suite
+## Outlook: Strategy IDO Suite
 
 Make other protocols for IDOs:
 

@@ -28,6 +28,10 @@ Overall strategy is to change masa to a tool for doing IDOs
 6. Auto distribute coins and delete contract
 
 
+## Generate Revenue?
+
+* Over Service?
+* Fee based?
 
 ## Strategy IDO Suite
 

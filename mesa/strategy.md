@@ -30,8 +30,8 @@ Overall strategy is to change masa to a tool for doing IDOs
 
 ## Generate Revenue?
 
-* Over Service?
-* Fee based?
+* Over Service? 0SS https://github.com/martinkrung/dxdao/blob/main/mesa/ido_packages.md
+* Fee based? (Blockchain way)
 
 ## Strategy IDO Suite
 
